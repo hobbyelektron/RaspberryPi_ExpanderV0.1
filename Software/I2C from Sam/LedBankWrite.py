@@ -1,3 +1,5 @@
+#   http://www.acmesystems.it/i2c
+
 import RPi.GPIO as GPIO #import library
 import smbus
 import time
